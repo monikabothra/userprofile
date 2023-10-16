@@ -35,10 +35,10 @@
             <ul class="navbar-nav">
 
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Add User</a>
+                    <a class="nav-link fw-bolder fs-4" href="/">Add User</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="">User List</a>
+                    <a class="nav-link fw-bolder fs-4" href="/data">User List</a>
                 </li>
 
             </ul>
